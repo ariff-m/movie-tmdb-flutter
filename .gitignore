@@ -31,6 +31,7 @@ migrate_working_dir/
 .pub/
 /build/
 .env
+themoviedb.postman_collection.json
 
 # Symbolication related
 app.*.symbols
